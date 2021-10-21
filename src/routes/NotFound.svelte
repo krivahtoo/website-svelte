@@ -1,11 +1,12 @@
-<h1>Not Found</h1>
-<p>This route doesn't exist.</p>
-
-<style>
-	h1 {
-		color: #ff0040;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
-	}
-</style>
+<div class="hero min-h-screen bg-base-200">
+  <div class="text-center hero-content">
+    <div class="max-w-md">
+      <h1 class="mb-5 text-5xl font-bold">
+        Oops!
+      </h1> 
+      <p class="mb-5">
+        The page you are looking for does not exist
+      </p> 
+    </div>
+  </div>
+</div>
