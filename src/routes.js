@@ -1,10 +1,14 @@
 import Home from './routes/Home.svelte';
-import Lorem from './routes/Lorem.svelte';
+import About from './routes/About.svelte';
+import Project from './routes/Project.svelte';
+import Projects from './routes/Projects.svelte';
 import NotFound from './routes/NotFound.svelte';
 
 export default {
-    '/': Home,
-    '/lorem/:repeat': Lorem,
-    // The catch-all route must always be last
-    '*': NotFound
-};
+  '/': Home,
+  '/about': About,
+  '/projects': Projects,
+  '/project/:id': Project,
+  // The catch-all route must always be last
+  '*': NotFound
+}

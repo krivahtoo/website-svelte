@@ -1,6 +1,7 @@
 lockfileVersion: 5.3
 
 specifiers:
+  '@fortawesome/free-solid-svg-icons': ^5.15.4
   '@rollup/plugin-commonjs': ^16.0.0
   '@rollup/plugin-node-resolve': ^10.0.0
   autoprefixer: ^10.3.7
@@ -15,11 +16,13 @@ specifiers:
   rollup-plugin-terser: ^7.0.0
   sirv-cli: ^1.0.0
   svelte: ^3.0.0
+  svelte-fa: ^2.3.3
   svelte-preprocess: ^4.9.8
   svelte-spa-router: ^3.0.4
   tailwindcss: ^2.2.17
 
 devDependencies:
+  '@fortawesome/free-solid-svg-icons': 5.15.4
   '@rollup/plugin-commonjs': 16.0.0_rollup@2.58.0
   '@rollup/plugin-node-resolve': 10.0.0_rollup@2.58.0
   autoprefixer: 10.3.7_postcss@8.3.9
@@ -34,6 +37,7 @@ devDependencies:
   rollup-plugin-terser: 7.0.2_rollup@2.58.0
   sirv-cli: 1.0.14
   svelte: 3.43.2
+  svelte-fa: 2.3.3
   svelte-preprocess: 4.9.8_6791a88092a7dfc8f03ced7bd61bb4e4
   svelte-spa-router: 3.2.0
   tailwindcss: 2.2.17_96f83969316717847b3edf58a3f353f3
@@ -59,6 +63,20 @@ packages:
       '@babel/helper-validator-identifier': 7.15.7
       chalk: 2.4.2
       js-tokens: 4.0.0
+    dev: true
+
+  /@fortawesome/fontawesome-common-types/0.2.36:
+    resolution: {integrity: sha512-a/7BiSgobHAgBWeN7N0w+lAhInrGxksn13uK7231n2m8EDPE3BMCl9NZLTGrj9ZXfCmC6LM0QLqXidIizVQ6yg==}
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dev: true
+
+  /@fortawesome/free-solid-svg-icons/5.15.4:
+    resolution: {integrity: sha512-JLmQfz6tdtwxoihXLg6lT78BorrFyCf59SAwBM6qV/0zXyVeDygJVb3fk+j5Qat+Yvcxp1buLTY5iDh1ZSAQ8w==}
+    engines: {node: '>=6'}
+    requiresBuild: true
+    dependencies:
+      '@fortawesome/fontawesome-common-types': 0.2.36
     dev: true
 
   /@nodelib/fs.scandir/2.1.5:
@@ -1938,6 +1956,10 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       has-flag: 4.0.0
+    dev: true
+
+  /svelte-fa/2.3.3:
+    resolution: {integrity: sha512-Izq+L4H9FEsoClSsYe35KuMP+2CUltJq8eP6qrQp9q52zYxRNMQTO3dYylr6K1fFmhKiWcw9q1hUzIiyrJx8dQ==}
     dev: true
 
   /svelte-preprocess/4.9.8_6791a88092a7dfc8f03ced7bd61bb4e4:
