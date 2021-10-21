@@ -11,4 +11,10 @@ module.exports = {
   plugins: [
     require('daisyui'),
   ],
+  daisyui: {
+    themes: [
+      'dark', // first one will be the default theme
+      'light'
+    ],
+  }
 }
