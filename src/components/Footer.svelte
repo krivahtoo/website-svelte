@@ -1,6 +1,5 @@
 <footer class="p-10 footer bg-base-200 text-base-content footer-center">
   <div class="grid grid-flow-col gap-4">
-    <a class="link link-hover" href="#/">Home</a>
     <a class="link link-hover" href="mailto:hello@krivah.xyz">Contact</a> 
     <a class="link link-hover" href="#/projects">Projects</a> 
     <a class="link link-hover" href="#/docs/cv.pdf">Resume</a>
