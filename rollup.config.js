@@ -50,7 +50,9 @@ export default {
 		// we'll extract any component CSS out into
 		// a separate file - better for performance
 		postcss({
-            plugins: []
+            extract: true,
+            plugins: [],
+            minimize: production
         }),
 
 		// If you have external dependencies installed from
