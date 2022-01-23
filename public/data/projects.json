@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "title": "Boids Simulation",
+      "description": "A simulation of flocking behavior in a 2D environment. The boids are simulated using a neural network.",
+      "date": "Dec 2020",
+      "image": "https://picsum.photos/id/1005/400/250",
+      "link": "https://krivah.xyz/boids",
+      "github": "https://github/krivahtoo/boids",
+      "langs": [
+        "HTML",
+        "JavaScript"
+      ],
+      "tools": [
+        "Git",
+        "Github"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Conway's Game of Life",
+      "description": "A simulation of Conway's Game of Life in a 2D environment. The game is simulated using a LÖVE lua framework.",
+      "date": "Dec 2020",
+      "image": "https://picsum.photos/id/1005/400/250",
+      "link": "https://github.com/krivahtoo/game-of-life",
+      "github": "https://github.com/krivahtoo/game-of-life",
+      "langs": [
+        "Lua",
+        "LÖVE"
+      ],
+      "tools": [
+        "Git",
+        "Github"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Stock Manager",
+      "description": "A small stock manager application that allows the user to manage their stock. The application is built using a Qt.",
+      "date": "Dec 2020",
+      "image": "https://picsum.photos/id/1005/400/250",
+      "link": "https://github.com/krivahtoo/stockmanager",
+      "github": "https://github.com/krivahtoo/stockmanager",
+      "langs": [
+        "C++",
+        "Qt"
+      ],
+      "tools": [
+        "Git",
+        "Github"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Sudoku Solver",
+      "description": "A rust sudoku solver using backtracking algorithm.",
+      "date": "Dec 2020",
+      "image": "https://picsum.photos/id/1005/400/250",
+      "link": "https://github.com/krivahtoo/rust-sudoku-solver",
+      "github": "https://github.com/krivahtoo/rust-sudoku-solver",
+      "langs": [
+        "Rust"
+      ],
+      "tools": [
+        "Git",
+        "Github"
+      ],
+      "id": 4
+    },
+    {
+      "title": "MPD Web Client",
+      "description": "A standalone and lightweight web client for the music player daemon (MPD).",
+      "date": "Dec 2020",
+      "image": "https://user-images.githubusercontent.com/41364823/145271790-bb274af1-6984-4ef2-8827-1075167336c1.png",
+      "link": "https://github.com/krivahtoo/htmpd",
+      "github": "https://github.com/krivahtoo/htmpd",
+      "langs": [
+        "C",
+        "Svelte",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "tools": [
+        "Git",
+        "Github"
+      ],
+      "id": 5
+    }
+  ]
+}

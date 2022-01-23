@@ -1,0 +1,56 @@
+{
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "95"
+    },
+    {
+      "name": "JavaScript",
+      "level": "95"
+    },
+    {
+      "name": "CSS",
+      "level": "85"
+    },
+    {
+      "name": "Svelte",
+      "level": "85"
+    },
+    {
+      "name": "Node.js",
+      "level": "80"
+    },
+    {
+      "name": "Express",
+      "level": "80"
+    },
+    {
+      "name": "Vue.js",
+      "level": "75"
+    },
+    {
+      "name": "React",
+      "level": "70"
+    },
+    {
+      "name": "Redux",
+      "level": "70"
+    },
+    {
+      "name": "MongoDB",
+      "level": "70"
+    },
+    {
+      "name": "Mongoose",
+      "level": "70"
+    },
+    {
+      "name": "MySQL",
+      "level": "70"
+    },
+    {
+      "name": "Sequelize",
+      "level": "70"
+    }
+  ]
+}

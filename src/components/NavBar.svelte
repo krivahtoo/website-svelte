@@ -7,11 +7,11 @@
   import { darkMode } from '../stores.js'
 </script>
 
-<div class="navbar mb-2 shadow-lg bg-neutral text-neutral-content rounded-box">
+<div class="navbar my-2 shadow-lg bg-neutral text-neutral-content rounded-box">
   <div class="flex-none px-2 mx-2">
-    <span class="text-lg font-bold">
+    <a class="text-lg font-bold" href="#/">
       Krivah
-    </span>
+    </a>
   </div> 
   <div class="flex-1 px-2 mx-2">
     <div class="items-stretch hidden lg:flex">

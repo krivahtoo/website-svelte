@@ -25,6 +25,6 @@
     </div>
   </div> 
   <div>
-    <p>Copyright © 2021 - All right reserved by Noah Too</p>
+    <p>Copyright © 2022 - All right reserved by Noah Too</p>
   </div>
 </footer>

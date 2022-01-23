@@ -7,7 +7,7 @@
 
 <div class="hero min-h-screen bg-base-200">
   <div class="flex-col hero-content lg:flex-row-reverse">
-    <img alt="Noah Too" src="https://avatars.githubusercontent.com/u/41364823?v=4" class="mask mask-hexagon max-w-sm"> 
+    <img alt="Noah Too" src="/images/avatar.png" class="mask mask-hexagon max-w-sm"> 
     <div>
       <h1 class="mb-5 text-5xl font-bold">
         Noah Cheptoo
