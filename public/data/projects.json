@@ -4,7 +4,7 @@
       "title": "Boids Simulation",
       "description": "A simulation of flocking behavior in a 2D environment. The boids are simulated using a neural network.",
       "date": "Dec 2020",
-      "image": "https://picsum.photos/id/1005/400/250",
+      "image": "https://web-static.wrike.com/cdn-cgi/image/width=400,format=auto,q=80/blog/content/uploads/2017/06/freestocks-org-229658-unsplash.jpg?av=d51c38e587f9be32204c6a673e59cf29",
       "link": "https://krivah.xyz/boids",
       "github": "https://github/krivahtoo/boids",
       "langs": [
@@ -21,7 +21,7 @@
       "title": "Conway's Game of Life",
       "description": "A simulation of Conway's Game of Life in a 2D environment. The game is simulated using a LÖVE lua framework.",
       "date": "Dec 2020",
-      "image": "https://picsum.photos/id/1005/400/250",
+      "image": "https://user-images.githubusercontent.com/41364823/144294781-c0fe3538-7443-453d-8ae2-baad9665f49f.png",
       "link": "https://github.com/krivahtoo/game-of-life",
       "github": "https://github.com/krivahtoo/game-of-life",
       "langs": [
@@ -38,7 +38,7 @@
       "title": "Stock Manager",
       "description": "A small stock manager application that allows the user to manage their stock. The application is built using a Qt.",
       "date": "Dec 2020",
-      "image": "https://picsum.photos/id/1005/400/250",
+      "image": "https://user-images.githubusercontent.com/41364823/115992756-01675400-a5d8-11eb-8b06-6bacde7ce33f.png",
       "link": "https://github.com/krivahtoo/stockmanager",
       "github": "https://github.com/krivahtoo/stockmanager",
       "langs": [
@@ -55,7 +55,7 @@
       "title": "Sudoku Solver",
       "description": "A rust sudoku solver using backtracking algorithm.",
       "date": "Dec 2020",
-      "image": "https://picsum.photos/id/1005/400/250",
+      "image": "https://web-static.wrike.com/cdn-cgi/image/width=400,format=auto,q=80/blog/content/uploads/2017/06/freestocks-org-229658-unsplash.jpg?av=d51c38e587f9be32204c6a673e59cf29",
       "link": "https://github.com/krivahtoo/rust-sudoku-solver",
       "github": "https://github.com/krivahtoo/rust-sudoku-solver",
       "langs": [
